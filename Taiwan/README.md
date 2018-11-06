@@ -1,4 +1,9 @@
 
+## All you need to know about Taiwan ... in a few YouTube clips 
+   * [Beyond Beauty](https://www.youtube.com/watch?v=dZ5-RcVIizU)
+   * [Seediq Bale](https://www.youtube.com/watch?v=e-fbH6i_uyw)
+   * [Taiwanese 7-11](https://www.youtube.com/watch?v=CP6aYDssDSE)
+
 
 
 ## What to do in ...
@@ -21,4 +26,7 @@
 
 3. Elephant mountain [象山]()
    * [Where?](https://www.google.com/maps/place/110,+Taiwan,+Taipei+City,+Xinyi+District,+象山/)
+   
+4. Shida Nightmarket [師大夜市]()
+   * [Where?](https://www.google.com/maps/place/Shida+Night+Market/)
    
